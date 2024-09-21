@@ -27,8 +27,7 @@
 
 ### Authentication
 1. **User Roles**:
-   - Implements authentication for both customers and staff.
-   - Ensures that only authenticated staff can access order management features.
+   - Implements authentication for customers .
 
 ## Live Links
 - **Frontend Live**: [Customer Interface](https://resturant-website-three.vercel.app/)
